@@ -1,0 +1,2 @@
+Unique intersection points:
+(3.000, 0.000)
